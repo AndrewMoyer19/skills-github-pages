@@ -1,4 +1,5 @@
+# Welcome to my blog
 ---
-title: Welcome to my blog
+title: What is happiness except a dying light?
 ---
 
